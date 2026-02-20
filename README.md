@@ -1,4 +1,4 @@
-# Predicción de Churn de Clientes con Machine Learning
+# Predicción de abandono de Clientes con Machine Learning
 
 ## Descripción
 Este proyecto implementa un **modelo de Machine Learning** para predecir la **cancelación de clientes (churn)** utilizando datos históricos de telecomunicaciones.
