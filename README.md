@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 El **churn** (abandono de clientes) es uno de los problemas más críticos en la industria de telecomunicaciones. Perder un cliente existente cuesta entre 5 y 25 veces más que retenerlo, por lo que anticipar su salida permite actuar de forma proactiva.
 
@@ -85,7 +85,7 @@ Prediccion-abandono-de-clientes/
 
 ---
 
-## 🔄 Pipeline de Análisis
+## Pipeline de Análisis
 
 ```
 1. Carga de datos
@@ -117,7 +117,7 @@ Prediccion-abandono-de-clientes/
 
 ---
 
-## 🤖 Modelos Implementados
+## Modelos Implementados
 
 ### Regresión Logística
 
@@ -166,7 +166,7 @@ El modelo identificó las siguientes variables como las más predictivas de aban
 
 ---
 
-## 🔴 Segmentación de Riesgo
+## Segmentación de Riesgo
 
 A partir de la probabilidad de churn estimada por Random Forest, cada cliente del conjunto de prueba es clasificado en uno de tres niveles:
 
